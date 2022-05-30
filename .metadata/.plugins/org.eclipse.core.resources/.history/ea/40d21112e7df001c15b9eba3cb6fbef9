@@ -1,0 +1,5 @@
+spring.datasource.username=root
+spring.datasource.password=orcl
+spring.datasource.url=jdbc:mysql://localhost:3306/orderdb
+spring.datasource.driver-class-name=com.mysql.dbc.Driver
+spring.jpa.hibernate.ddl-auto=create
